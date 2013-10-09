@@ -3,4 +3,4 @@ Git is free software
 Git has a mutable index called stage
 Git tarcks aad bu
 
-Creating a new branch is AND quick.
+Creating a new branch is ANDquick.
