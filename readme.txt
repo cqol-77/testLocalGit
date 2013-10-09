@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tarcks aad bu
 
 Creating a new branch is quick and simple.
+add new
